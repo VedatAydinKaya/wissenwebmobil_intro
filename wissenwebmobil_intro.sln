@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiziSekilleri", "DiziSekill
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SayiTahmin", "SayiTahmin\SayiTahmin.csproj", "{07C5E2B1-D31C-4E84-9F3D-3525371CE7DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZarOyunu", "ZarOyunu\ZarOyunu.csproj", "{491F7549-CBBA-400B-943B-0151F7B3D0F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -91,6 +93,10 @@ Global
 		{07C5E2B1-D31C-4E84-9F3D-3525371CE7DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07C5E2B1-D31C-4E84-9F3D-3525371CE7DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07C5E2B1-D31C-4E84-9F3D-3525371CE7DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{491F7549-CBBA-400B-943B-0151F7B3D0F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{491F7549-CBBA-400B-943B-0151F7B3D0F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{491F7549-CBBA-400B-943B-0151F7B3D0F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{491F7549-CBBA-400B-943B-0151F7B3D0F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -107,6 +113,7 @@ Global
 		{E57693AC-2562-4599-B626-1F9986E8E7BB} = {B8B44864-5073-4B69-BC9E-D8A474D74F6B}
 		{31BE56CC-B141-4456-8CE3-907D8687DC84} = {B8B44864-5073-4B69-BC9E-D8A474D74F6B}
 		{07C5E2B1-D31C-4E84-9F3D-3525371CE7DD} = {B8B44864-5073-4B69-BC9E-D8A474D74F6B}
+		{491F7549-CBBA-400B-943B-0151F7B3D0F4} = {B8B44864-5073-4B69-BC9E-D8A474D74F6B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E7449490-88E9-430B-9758-A4DBE6620019}

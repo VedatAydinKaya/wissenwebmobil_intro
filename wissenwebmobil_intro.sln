@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wissenwebmobil_intro", "wissenwebmobil_intro\wissenwebmobil_intro.csproj", "{2CE0F275-00AA-469A-8268-F83F0EBE46EF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Gun1", "Gun1", "{28B65125-D5AC-49BA-9937-738A34E74C44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Degiskenler", "Degiskenler\Degiskenler.csproj", "{E17DFEB5-D47D-4982-B819-811E824EE8C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CE0F275-00AA-469A-8268-F83F0EBE46EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CE0F275-00AA-469A-8268-F83F0EBE46EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CE0F275-00AA-469A-8268-F83F0EBE46EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CE0F275-00AA-469A-8268-F83F0EBE46EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E17DFEB5-D47D-4982-B819-811E824EE8C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E17DFEB5-D47D-4982-B819-811E824EE8C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E17DFEB5-D47D-4982-B819-811E824EE8C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E17DFEB5-D47D-4982-B819-811E824EE8C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E17DFEB5-D47D-4982-B819-811E824EE8C9} = {28B65125-D5AC-49BA-9937-738A34E74C44}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7449490-88E9-430B-9758-A4DBE6620019}
+	EndGlobalSection
+EndGlobal

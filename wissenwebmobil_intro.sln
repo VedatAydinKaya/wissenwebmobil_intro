@@ -11,6 +11,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Degiskenler", "Degiskenler\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Degiskenlerdeneme", "Degiskenlerdeneme\Degiskenlerdeneme.csproj", "{D85D4F46-83B0-415A-9707-06A0C510996A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Gun2", "Gun2", "{CD7A7EED-95AA-44B4-A7D3-15D6D1BB0566}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Gun3", "Gun3", "{B8B44864-5073-4B69-BC9E-D8A474D74F6B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Gun4", "Gun4", "{C770E433-37F0-4E07-B8EE-4A2187B30C2F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Gun5", "Gun5", "{434AA2F2-9296-493A-A290-DF0067267523}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KararYapilariveDonguler", "KararYapilariveDonguler\KararYapilariveDonguler.csproj", "{B00596C3-C442-4459-88CE-28B127B931ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +39,10 @@ Global
 		{D85D4F46-83B0-415A-9707-06A0C510996A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D85D4F46-83B0-415A-9707-06A0C510996A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D85D4F46-83B0-415A-9707-06A0C510996A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B00596C3-C442-4459-88CE-28B127B931ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B00596C3-C442-4459-88CE-28B127B931ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B00596C3-C442-4459-88CE-28B127B931ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B00596C3-C442-4459-88CE-28B127B931ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -36,6 +50,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{E17DFEB5-D47D-4982-B819-811E824EE8C9} = {28B65125-D5AC-49BA-9937-738A34E74C44}
 		{D85D4F46-83B0-415A-9707-06A0C510996A} = {28B65125-D5AC-49BA-9937-738A34E74C44}
+		{B00596C3-C442-4459-88CE-28B127B931ED} = {28B65125-D5AC-49BA-9937-738A34E74C44}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E7449490-88E9-430B-9758-A4DBE6620019}

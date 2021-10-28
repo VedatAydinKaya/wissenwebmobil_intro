@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomNesnesi", "RandomNesn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SekilCizme", "SekilCizme\SekilCizme.csproj", "{8CD6244C-6337-4075-A751-E34156E60490}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diziler", "Diziler\Diziler.csproj", "{E57693AC-2562-4599-B626-1F9986E8E7BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -73,6 +75,10 @@ Global
 		{8CD6244C-6337-4075-A751-E34156E60490}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CD6244C-6337-4075-A751-E34156E60490}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CD6244C-6337-4075-A751-E34156E60490}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E57693AC-2562-4599-B626-1F9986E8E7BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E57693AC-2562-4599-B626-1F9986E8E7BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E57693AC-2562-4599-B626-1F9986E8E7BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E57693AC-2562-4599-B626-1F9986E8E7BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -86,6 +92,7 @@ Global
 		{4980F475-ADE3-4865-AA72-83E3AE28DA7A} = {28B65125-D5AC-49BA-9937-738A34E74C44}
 		{558CDAC5-8457-40AA-9CDF-95CEFA7EB6C7} = {CD7A7EED-95AA-44B4-A7D3-15D6D1BB0566}
 		{8CD6244C-6337-4075-A751-E34156E60490} = {CD7A7EED-95AA-44B4-A7D3-15D6D1BB0566}
+		{E57693AC-2562-4599-B626-1F9986E8E7BB} = {B8B44864-5073-4B69-BC9E-D8A474D74F6B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E7449490-88E9-430B-9758-A4DBE6620019}

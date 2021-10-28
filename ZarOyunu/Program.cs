@@ -52,12 +52,12 @@ namespace ZarOyunu
 
                     //break;
                 } while (true);
-
+                // tekrar oyun oynama kontrolu
                 Console.WriteLine("TEKRAR OYNAMAK ICIN E YA BAS: ");
                 ConsoleKeyInfo info = Console.ReadKey();
                 if (info.Key != ConsoleKey.E)
                     break;
-
+                // 
             
             } while (true);
 

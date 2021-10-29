@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wissenwebmobil_intro", "wissenwebmobil_intro\wissenwebmobil_intro.csproj", "{2CE0F275-00AA-469A-8268-F83F0EBE46EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "wissenwebmobil_intro", "wissenwebmobil_intro\wissenwebmobil_intro.csproj", "{2CE0F275-00AA-469A-8268-F83F0EBE46EF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Gun1", "Gun1", "{28B65125-D5AC-49BA-9937-738A34E74C44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Degiskenler", "Degiskenler\Degiskenler.csproj", "{E17DFEB5-D47D-4982-B819-811E824EE8C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Degiskenler", "Degiskenler\Degiskenler.csproj", "{E17DFEB5-D47D-4982-B819-811E824EE8C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Degiskenlerdeneme", "Degiskenlerdeneme\Degiskenlerdeneme.csproj", "{D85D4F46-83B0-415A-9707-06A0C510996A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Degiskenlerdeneme", "Degiskenlerdeneme\Degiskenlerdeneme.csproj", "{D85D4F46-83B0-415A-9707-06A0C510996A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Gun2", "Gun2", "{CD7A7EED-95AA-44B4-A7D3-15D6D1BB0566}"
 EndProject
@@ -19,27 +19,31 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Gun4", "Gun4", "{C770E433-3
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Gun5", "Gun5", "{434AA2F2-9296-493A-A290-DF0067267523}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KararYapilariveDonguler", "KararYapilariveDonguler\KararYapilariveDonguler.csproj", "{B00596C3-C442-4459-88CE-28B127B931ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KararYapilariveDonguler", "KararYapilariveDonguler\KararYapilariveDonguler.csproj", "{B00596C3-C442-4459-88CE-28B127B931ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KararYapilariveDongulerdeneme", "KararYapilariveDongulerdeneme\KararYapilariveDongulerdeneme.csproj", "{8AB73430-24C6-4372-A4C2-C26C220ED021}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KararYapilariveDongulerdeneme", "KararYapilariveDongulerdeneme\KararYapilariveDongulerdeneme.csproj", "{8AB73430-24C6-4372-A4C2-C26C220ED021}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputIslemleri", "InputIslemleri\InputIslemleri.csproj", "{0343B77E-EA39-4886-AC36-D31B9F14E16C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InputIslemleri", "InputIslemleri\InputIslemleri.csproj", "{0343B77E-EA39-4886-AC36-D31B9F14E16C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputIslemlerideneme", "InputIslemlerideneme\InputIslemlerideneme.csproj", "{4980F475-ADE3-4865-AA72-83E3AE28DA7A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InputIslemlerideneme", "InputIslemlerideneme\InputIslemlerideneme.csproj", "{4980F475-ADE3-4865-AA72-83E3AE28DA7A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomNesnesi", "RandomNesnesi\RandomNesnesi.csproj", "{558CDAC5-8457-40AA-9CDF-95CEFA7EB6C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RandomNesnesi", "RandomNesnesi\RandomNesnesi.csproj", "{558CDAC5-8457-40AA-9CDF-95CEFA7EB6C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SekilCizme", "SekilCizme\SekilCizme.csproj", "{8CD6244C-6337-4075-A751-E34156E60490}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SekilCizme", "SekilCizme\SekilCizme.csproj", "{8CD6244C-6337-4075-A751-E34156E60490}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diziler", "Diziler\Diziler.csproj", "{E57693AC-2562-4599-B626-1F9986E8E7BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Diziler", "Diziler\Diziler.csproj", "{E57693AC-2562-4599-B626-1F9986E8E7BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiziSekilleri", "DiziSekilleri\DiziSekilleri.csproj", "{31BE56CC-B141-4456-8CE3-907D8687DC84}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiziSekilleri", "DiziSekilleri\DiziSekilleri.csproj", "{31BE56CC-B141-4456-8CE3-907D8687DC84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SayiTahmin", "SayiTahmin\SayiTahmin.csproj", "{07C5E2B1-D31C-4E84-9F3D-3525371CE7DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SayiTahmin", "SayiTahmin\SayiTahmin.csproj", "{07C5E2B1-D31C-4E84-9F3D-3525371CE7DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZarOyunu", "ZarOyunu\ZarOyunu.csproj", "{491F7549-CBBA-400B-943B-0151F7B3D0F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZarOyunu", "ZarOyunu\ZarOyunu.csproj", "{491F7549-CBBA-400B-943B-0151F7B3D0F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdamAsmaca", "AdamAsmaca\AdamAsmaca.csproj", "{EF381343-0D31-4B3D-B863-0E77705AC858}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdamAsmaca", "AdamAsmaca\AdamAsmaca.csproj", "{EF381343-0D31-4B3D-B863-0E77705AC858}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BomOyunu", "BomOyunu\BomOyunu.csproj", "{A0953D9C-099A-464A-AB61-DD94B8119A50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodKullanimi", "MethodKullanimi\MethodKullanimi.csproj", "{6CCF4A88-7936-4993-8D46-E1B10F8F9208}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -103,6 +107,14 @@ Global
 		{EF381343-0D31-4B3D-B863-0E77705AC858}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF381343-0D31-4B3D-B863-0E77705AC858}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF381343-0D31-4B3D-B863-0E77705AC858}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0953D9C-099A-464A-AB61-DD94B8119A50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0953D9C-099A-464A-AB61-DD94B8119A50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0953D9C-099A-464A-AB61-DD94B8119A50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0953D9C-099A-464A-AB61-DD94B8119A50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CCF4A88-7936-4993-8D46-E1B10F8F9208}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CCF4A88-7936-4993-8D46-E1B10F8F9208}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CCF4A88-7936-4993-8D46-E1B10F8F9208}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CCF4A88-7936-4993-8D46-E1B10F8F9208}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -121,6 +133,8 @@ Global
 		{07C5E2B1-D31C-4E84-9F3D-3525371CE7DD} = {B8B44864-5073-4B69-BC9E-D8A474D74F6B}
 		{491F7549-CBBA-400B-943B-0151F7B3D0F4} = {B8B44864-5073-4B69-BC9E-D8A474D74F6B}
 		{EF381343-0D31-4B3D-B863-0E77705AC858} = {B8B44864-5073-4B69-BC9E-D8A474D74F6B}
+		{A0953D9C-099A-464A-AB61-DD94B8119A50} = {B8B44864-5073-4B69-BC9E-D8A474D74F6B}
+		{6CCF4A88-7936-4993-8D46-E1B10F8F9208} = {C770E433-37F0-4E07-B8EE-4A2187B30C2F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E7449490-88E9-430B-9758-A4DBE6620019}

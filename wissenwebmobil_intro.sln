@@ -43,9 +43,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdamAsmaca", "AdamAsmaca\Ad
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BomOyunu", "BomOyunu\BomOyunu.csproj", "{A0953D9C-099A-464A-AB61-DD94B8119A50}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodKullanimi", "MethodKullanimi\MethodKullanimi.csproj", "{6CCF4A88-7936-4993-8D46-E1B10F8F9208}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodKullanimi", "MethodKullanimi\MethodKullanimi.csproj", "{6CCF4A88-7936-4993-8D46-E1B10F8F9208}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodKulanimi2", "MethodKulanimi2\MethodKulanimi2.csproj", "{F9A5CF27-1D99-46B8-ABB5-838053085249}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodKulanimi2", "MethodKulanimi2\MethodKulanimi2.csproj", "{F9A5CF27-1D99-46B8-ABB5-838053085249}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdresDefteri", "AdresDefteri\AdresDefteri.csproj", "{4AB5C284-91DF-4A39-9429-CE881948C5C4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -121,6 +123,10 @@ Global
 		{F9A5CF27-1D99-46B8-ABB5-838053085249}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9A5CF27-1D99-46B8-ABB5-838053085249}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9A5CF27-1D99-46B8-ABB5-838053085249}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AB5C284-91DF-4A39-9429-CE881948C5C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AB5C284-91DF-4A39-9429-CE881948C5C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AB5C284-91DF-4A39-9429-CE881948C5C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AB5C284-91DF-4A39-9429-CE881948C5C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -142,6 +148,7 @@ Global
 		{A0953D9C-099A-464A-AB61-DD94B8119A50} = {B8B44864-5073-4B69-BC9E-D8A474D74F6B}
 		{6CCF4A88-7936-4993-8D46-E1B10F8F9208} = {C770E433-37F0-4E07-B8EE-4A2187B30C2F}
 		{F9A5CF27-1D99-46B8-ABB5-838053085249} = {C770E433-37F0-4E07-B8EE-4A2187B30C2F}
+		{4AB5C284-91DF-4A39-9429-CE881948C5C4} = {434AA2F2-9296-493A-A290-DF0067267523}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E7449490-88E9-430B-9758-A4DBE6620019}
